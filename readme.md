@@ -1,5 +1,7 @@
 # jBCST #
 
+[screenshot](img/sample.png)
+
 This is a java implementation of the Wisconsin Card Sorting Test (WCST), which we refer as Berg's Card Sorting Test in java, following [PEBL](http://pebl.sourceforge.net/wiki/index.php/Berg's_Card_Sorting_Test),
 
 > We refer to our implementation of the Wisconsin Card Sorting Test as
