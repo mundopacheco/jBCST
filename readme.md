@@ -1,6 +1,6 @@
-# Berg's Card Sorting Test in JAVA #
+# jBCST #
 
-This is an implementation of the Berg's Card Sorting Test in java. Following PEBL,
+This is a java implementation of the Wisconsin Card Sorting Test (WCST), which we refer as Berg's Card Sorting Test in java, following [PEBL](http://pebl.sourceforge.net/wiki/index.php/Berg's_Card_Sorting_Test),
 
 > We refer to our implementation of the Wisconsin Card Sorting Test as
 > "Berg's Card Sorting Test" because the more common name, the
@@ -9,31 +9,20 @@ This is an implementation of the Berg's Card Sorting Test in java. Following PEB
 
 Repository: https://github.com/mundopacheco/jBCST/
 
-# Authors #
+## Authors
 
 Edmundo Pacheco Blas, Facultad de Ciencias, UNAM.
 
 Roberto Velasco Segura, CCADET, UNAM.
 
-# Registration #
+## Registration #
 
 Indautor: ...number...
 
-## The Jar File ##
+## License
 
-To run the jar file you'll need a Linux, Mac or Windows operating
-system on which  you can install the
-[Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html),
-[here's a tutorial to install it](https://www.youtube.com/watch?v=evoLlsLFn10).
-The requirements can be found
-[here](http://www.oracle.com/technetwork/java/javase/certconfig-2095354.html),
-though most computers should have no problems complying.
-
-## Editing ##
-
-Netbeans was used to create this version of the WCST, but it's not a requirement
-for running the jar file. As always you only need a text editor to modify
-and edit the code.
+The code is under [BSD license](license.txt). Images for the cards
+were taken from PEBL, se details [here](ImagesCardName/readme.md).
 
 # Usage #
 
@@ -52,6 +41,16 @@ The missing files will be added to the directory in which the application is
 running, however the "images" folder containing the images with which it works
 must be manually added by the user, if the program is not in the same folder
 It will not run correctly.
+
+## The Jar File ##
+
+To run the jar file you'll need a Linux, Mac or Windows operating
+system on which  you can install the
+[Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html),
+[here's a tutorial to install it](https://www.youtube.com/watch?v=evoLlsLFn10).
+The requirements can be found
+[here](http://www.oracle.com/technetwork/java/javase/certconfig-2095354.html),
+though most computers should have no problems complying.
 
 ## Compile and run on Linux ##
 
@@ -72,7 +71,7 @@ run
 java -classpath bin/ jBCST.jBCST
 ```
 
-## Output ##
+# Output
 
 The generated files are in a folder that bears the name of the subject, said
 folder contains the following documents:
@@ -86,10 +85,12 @@ For more details regarding the output files clic [here](output.md)
 
 # Customization #
 
-We have seen different studies use some specific rules to present
-trials and evaluate results.
+Netbeans was used to create this version of the WCST, but it's not a requirement
+for running the jar file. As always you only need a text editor to modify
+and edit the code.
 
-One of the aims of this code is allow such customization, some effort
-has been made to place (hopefully) all that could need customization
-in a single file named `Manual.java`. See the coments inside this file
-for details.
+We have seen different studies use some specific rules to present
+trials and evaluate results. One of the aims of this code is allow
+such customization, some effort has been made to place (hopefully) all
+that could need customization in a single file named
+`Manual.java`. See the coments inside this file for details.

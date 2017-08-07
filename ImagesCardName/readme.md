@@ -1,1 +1,1 @@
-Las imagenes en esta versión fueron tomadas de [PEBL](http://pebl.sourceforge.net/) bajo los terminos de [una licencia tipo MIT](http://github.com/abhik/pebl/raw/master/LICENSE.txt).
+Images in this directory were taken from [PEBL](http://pebl.sourceforge.net/) under the terms of their [GPL licence](http://pebl.cvs.sourceforge.net/viewvc/pebl/pebl/COPYING?view=markup).

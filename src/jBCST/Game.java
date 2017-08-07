@@ -205,7 +205,7 @@ class Game {
     }
 
     static void showErrorMessageDialog() {
-        JOptionPane errorMessage = new JOptionPane(new ImageIcon("ImagesCardName/wrong.png"));
+        JOptionPane errorMessage = new JOptionPane(new ImageIcon("img/wrong.png"));
         final JDialog error = errorMessage.createDialog("Error");
         error.setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
         errorMessage.remove(errorMessage.getComponent(1));
