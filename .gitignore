@@ -1,0 +1,11 @@
+/build/
+*.csv
+/CLI/
+/nbproject/private/
+*.class
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+.DS_Store
+/Salida/
+/dist/
+/Output/
