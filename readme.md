@@ -7,8 +7,6 @@ This is a java implementation of the Wisconsin Card Sorting Test (WCST), which w
 > "Wisconsin Card Sorting Test" is a registered trademark, and it was
 > first developed by Esta Berg at the University of Wisconsin.
 
-Repository: https://github.com/mundopacheco/jBCST/
-
 ## Authors
 
 Edmundo Pacheco Blas, Facultad de Ciencias, UNAM.
@@ -18,6 +16,7 @@ Roberto Velasco Segura, CCADET, UNAM.
 ## Registration #
 
 Indautor: ...number...
+Repository: https://github.com/mundopacheco/jBCST/
 
 ## License
 
