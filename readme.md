@@ -87,8 +87,8 @@ For more details regarding the output files clic [here](output.md)
 
 # Customization #
 
-Netbeans was used to create this version of the WCST, but it's not a requirement
-for running the jar file. As always you only need a text editor to modify
+Netbeans was used to create this code, but it's not a requirement for
+running the jar file. As always you only need a text editor to modify
 and edit the code.
 
 We have seen different studies use some specific rules to present
