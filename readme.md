@@ -82,7 +82,7 @@ folder contains the following documents:
 - results-date-time.txt, summary of results
 - Selected Cards-date-time.csv, list of the chosen cards and their evaluation
 
-For more details regarding the output files clic [here](Output.md)
+For more details regarding the output files clic [here](output.md)
 
 # Customization #
 
