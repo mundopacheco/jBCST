@@ -2,7 +2,7 @@
 
 ![screenshot](img/sample.png)
 
-This is a java implementation of the Wisconsin Card Sorting Test (WCST), which we refer as Berg's Card Sorting Test in java, following [PEBL](http://pebl.sourceforge.net/wiki/index.php/Berg's_Card_Sorting_Test),
+This is a java implementation of the Wisconsin Card Sorting Test (WCST), which we refer as Berg's Card Sorting Test in java, following [PEBL](http://pebl.sourceforge.net/wiki/index.php/Berg's_Card_Sorting_Test) this version of BCST is free software and intended for academic purposes.
 
 > We refer to our implementation of the Wisconsin Card Sorting Test as
 > "Berg's Card Sorting Test" because the more common name, the
@@ -27,8 +27,6 @@ The code is under [BSD license](license.txt). Images for the cards
 were taken from PEBL, se details [here](ImagesCardName/readme.md).
 
 # Usage #
-
-This version of the WCST is free software and intended for academic purposes.
 
 This code was written in Linux and Mac OS and therefore we recommend that
 the test be run on a unix-based system.
