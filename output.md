@@ -42,3 +42,12 @@ Queries
 - color - card color
 - figure - figure in the card
 - amount - amount of figures in the card
+
+# Important #
+
+Although it runs correctly on Windows, the names of the output files won't
+be Results or Selected Cards. The actual names of these files will 
+be INCName LastName-date-time.txt or csv correspondingly,
+the program generates these names as working titles but on Windows the 
+rename comand does not work. However Linux and Mac can and will rename 
+the files without any issues
