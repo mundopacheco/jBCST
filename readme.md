@@ -17,7 +17,9 @@ Roberto Velasco Segura, CCADET, UNAM.
 
 ## Registration #
 
-Indautor: ...number...
+SEP-INDAUTOR
+REGISTRO PUBLICO
+03-2017-0815131 11 400-01
 
 Repository: https://github.com/mundopacheco/jBCST/
 
